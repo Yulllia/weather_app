@@ -1,0 +1,22 @@
+#leaflet-map {
+    height: 100%;
+    width: 100%;
+}
+.markerIcon {
+    width: 30px;
+    height: 30px;
+}
+
+.profileImage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.locationName {
+    margin-top: 5px;
+    font-size: 12px;
+    display: flex;
+    color: black;
+}

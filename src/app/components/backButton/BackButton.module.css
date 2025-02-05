@@ -1,0 +1,18 @@
+.buttonContainer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.previousButton:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.previousButton {
+    background-color: #f1f1f1;
+    color: black;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
